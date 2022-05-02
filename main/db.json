@@ -1,0 +1,68 @@
+{
+    "more-details": [
+      {
+        "id": 38970340,
+        "name": "Sushi1",
+        "logo": "https://mla-s2-p.mlstatic.com/703385-MLA46753743034_072021-O.jpg",
+        "short_description": "Le Pain Quotidien significa el pan de cada día. Y para nosotros, eso significa todo. Es mucho más que mero sustento; Es un modo de vida.",
+        "address": {
+          "store_id": 38970340,
+          "city": "Barueri",
+          "state": "São Paulo",
+          "street": "Av. Henriqueta Mendes Guerra",
+          "number": 486,
+          "neighborhood": "Centro",
+          "postalCode": "06401-160",
+          "country": "Brazil",
+          "phone": "+5511980765423",
+          "latitude": -23.515332396098803,
+          "longitude": -46.85541524243489
+        },
+        "schedules": [
+          {
+            "name": "Lunes",
+            "from": "09:00",
+            "to": "18:00",
+            "is_open": true
+          },
+          {
+            "name": "Martes",
+            "from": "09:00",
+            "to": "18:00",
+            "is_open": true
+          },
+          {
+            "name": "Miércoles",
+            "from": "09:00",
+            "to": "18:00",
+            "is_open": true
+          },
+          {
+            "name": "Jueves",
+            "from": "09:00",
+            "to": "18:00",
+            "is_open": true
+          },
+          {
+            "name": "Viernes",
+            "from": "09:00",
+            "to": "18:00",
+            "is_open": true
+          },
+          {
+            "name": "Sábado",
+            "from": "09:00",
+            "to": "18:00",
+            "is_open": true
+          },
+          {
+            "name": "Domingo",
+            "from": "09:00",
+            "to": "14:00",
+            "is_open": true
+          }
+        ]
+      }
+    ]
+  }
+  
